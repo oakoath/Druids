@@ -12,7 +12,7 @@
   + Riddance Unit
   + Dandier Tunic
   + Iran Inducted
-  + Acid Nerd Unit
+  + Acid Nerd Unit :)
 + **Druid Knowledge**
   + Deluded Working
   + Deluded Gin Work
